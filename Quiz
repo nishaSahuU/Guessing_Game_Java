@@ -1,0 +1,24 @@
+Question 1: Which attribute of Java makes it such a popular language?
+   
+Answer - Cross Platform 
+   
+
+Question 2: What loop automatically repeats the loop body at least once?
+
+Answer - do-while
+
+ 
+Question 3: What is needed to tell what release of Java is installed?
+ 
+Answer - java --version
+ 
+
+Question 4: What defines the body of a decision construct in Java?
+
+Answer - curly braces
+
+
+Question 5: What keyword is used to identify a method that is loaded when the class is loaded into memory? 
+
+Answer - static
+ 
